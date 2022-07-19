@@ -10,5 +10,6 @@ class DisplayMore
 {
     public static void main(String args[]){  
      System.out.println("More");  
+     System.out.println("More2");  
     }
 }
